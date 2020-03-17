@@ -10,7 +10,8 @@ This repository contains code created for the first project in the Udacity Self-
 Requirements
 ---  
 This was developed in a Python 3.7 miniconda environment with OpenCV, matplotlib, and numpy among other basic libraries.  
-A set of input images and videos are provided. Custom test images can be added.
+A set of input images and videos are provided. Custom test images can be added.  
+
 Usage
 ---
 Run the P1.ipynb notebook.
